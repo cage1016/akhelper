@@ -1,4 +1,4 @@
-module akhelper
+module github.com/cage1016/akhelper
 
 go 1.20
 
